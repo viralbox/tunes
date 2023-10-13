@@ -11,3 +11,4 @@ some tunes here dont have an exported version (SID, SAP, etc) due to their edito
 |VSF|VICE Snapshot Image (used for FutureComposer tunes)|
 |FUR|Furnace|
 |V1P|Virtuoso|
+|TPM|TTrak|
