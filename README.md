@@ -12,7 +12,7 @@ they can be played in a chiptune player that supports their respective formats (
 ## Awake
 original tune. made in Virtuoso
 ## Bored
-original tune. made in future composer v4.1
+original tune. made in Future Composer v4.1
 ## Final Attack Intro
 recreation of Final Attack Intro by Richard Bayliss. made in SID Factory II
 ## Full Circle
@@ -20,7 +20,7 @@ original tune. made in Virtuoso
 ## Stage Completed
 cover of Stage Completed by Nils Feske (505) on the Atari ST. made in SID Factory II
 ## Strange
-original tune. made in future composer v4.1
+original tune. made in Future Composer v4.1
 ## Cool Tune
 cover of Cool Tune by Charles Deenen. made in SID Factory II
 # Atari XL/XE Tunes
