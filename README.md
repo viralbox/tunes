@@ -24,7 +24,7 @@ original tune. made in Future Composer v4.1
 ## Cool Tune
 cover of Cool Tune by Charles Deenen. made in SID Factory II
 ## Electric Carnival Act 1
-cover of Electric Carnival Act 1 by maple
+cover of Electric Carnival Act 1 by maple. made in Future Composer v2.0
 # Atari XL/XE Tunes
 ## Demotraz 4
 cover of Demotraz 4 by Tomas Danko on the C64. made in Raster Music Tracker
