@@ -8,7 +8,7 @@ some tunes here dont have an exported version (SID, SAP, etc) due to their edito
 |RMT|SID Factory II|
 |SF2|Raster Music Tracker (VinsCool's fork)|
 |DNM|DN-Famitracker|
-|VSF|VICE Snapshot Image (used for FutureComposer tunes)|
+|VSF|VICE Snapshot Image (used for Future Composer tunes)|
 |FUR|Furnace|
 |V1P|Virtuoso|
 |TPM|TTrak|
